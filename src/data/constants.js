@@ -224,7 +224,7 @@ export const projects = [
     description:
       "Build Continuous integration & Continuous pipeline using jenkins. Writing Docker files for docker images to be used for application deployment. Manage Source code Repository with GIT. Integrate Code Quality tolls like SonarQube",
     image:
-      "https://private-user-images.githubusercontent.com/64033035/243915184-8ecd3224-7c5f-44d1-8f86-5279c92fc787.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4MjQ5MzcsIm5iZiI6MTcxNjgyNDYzNywicGF0aCI6Ii82NDAzMzAzNS8yNDM5MTUxODQtOGVjZDMyMjQtN2M1Zi00NGQxLThmODYtNTI3OWM5MmZjNzg3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI3VDE1NDM1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyMTM4MmUwZmMwMjYzN2JmNzY1ZjY4OTU5ODk2NmNhOTI2YmMwNmY2MDkyYzhiODAxMmM0Yzc0YTYyMTQ4ZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d1ir52JSo5RyQeEYerPX47szrISufYTWQQ9u8cceFIU",
+      "https://github.com/BejadiRajeshReddy18/Project01/blob/main/CICD.png",
     tags: [
       " Linux",
       "Jenkins",
