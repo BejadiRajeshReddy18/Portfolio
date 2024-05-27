@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/BejadiRajeshReddy18",
-  resume:"https://drive.google.com/file/d/13jZgYyzKYrVlkvDmWPBu2yHWm_KYVUb9/view",
+  resume:"https://drive.google.com/file/d/1TdrjjVk4HfKenHI2TtkQ4NN7PIOysShd/view",
   linkedin: "https://www.linkedin.com/in/rajeshreddybejadi/",
   twitter: "https://x.com/RajeshReddyDEV",
   insta: "https://www.instagram.com/bejadirajeshreddy_",
